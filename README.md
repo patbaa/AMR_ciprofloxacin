@@ -1,7 +1,6 @@
-# AMR_ciprofloxacin
-Code sharing for the ciprofloxacin prediction research 
+# Understanding and predicting ciprofloxacin minimum inhibitory concentration in Escherichia coli with machine learning
 
-Understanding and predicting ciprofloxacin minimum inhibitory concentration in Escherichia coli with machine learning
+Code sharing for the ciprofloxacin prediction research 
 Published paper: https://www.nature.com/articles/s41598-020-71693-5
 
 Used reference genome: 
